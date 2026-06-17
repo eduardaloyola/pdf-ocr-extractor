@@ -119,7 +119,7 @@ Processar apenas paginas 1 e 2 de um arquivo:
 .\venv\Scripts\python.exe .\pdf_ocr.py ".\PDF\NF 17818 CIEB SEDE.pdf" --pages 1-2
 ```
 
-## Observacoes
+## Observaçoes
 
 - Na primeira execucao, o EasyOCR pode baixar modelos automaticamente.
 - Se houver erro de modulo nao encontrado, confirme o uso do Python do venv:
